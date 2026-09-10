@@ -1,0 +1,1215 @@
+{
+  "sources": [
+    {
+      "id": 1,
+      "name": "Divisare",
+      "category": "Architecture",
+      "subtitle": "Architecture · Curation",
+      "url": "https://divisare.com",
+      "rating": 5,
+      "why": "Projeleri tek bir hero image yerine görsel diziler halinde okumayı öğretir. Mimari fotoğraf, detay ve genel plan ilişkisini çözmek için güçlü bir arşiv.",
+      "lookFor": [
+        "Kadraj sırası",
+        "Detay / genel plan ilişkisi",
+        "İnsan ölçeği",
+        "Fotoğrafçı dili"
+      ],
+      "takeaway": "Bir projeyi tek kareyle değil, seçilmiş bir görsel sekansla anlat.",
+      "artworkSeed": 1,
+      "tags": [],
+      "personalNote": "",
+      "isCustom": false
+    },
+    {
+      "id": 2,
+      "name": "The Architectural Review",
+      "category": "Architecture",
+      "subtitle": "Criticism · Culture",
+      "url": "https://www.architectural-review.com",
+      "rating": 5,
+      "why": "Mimarlığı yalnızca biçim olarak değil, tarihsel, toplumsal ve kültürel bağlam içinde düşünmeye zorlar.",
+      "lookFor": [
+        "Eleştirel çerçeve",
+        "Bağlam",
+        "Mekânsal niyet",
+        "Mimari argüman"
+      ],
+      "takeaway": "Görseli okumadan önce yapının neden var olduğunu sor.",
+      "artworkSeed": 2,
+      "tags": [],
+      "personalNote": "",
+      "isCustom": false
+    },
+    {
+      "id": 3,
+      "name": "El Croquis",
+      "category": "Architecture",
+      "subtitle": "Monographs · Drawings",
+      "url": "https://elcroquis.es",
+      "rating": 5,
+      "why": "Plan, kesit, fotoğraf ve mimari düşünceyi aynı yerde okuyarak tasarım kararının görüntüye nasıl dönüştüğünü gösterir.",
+      "lookFor": [
+        "Plan-kesit ilişkisi",
+        "Kütle mantığı",
+        "Detay kararları",
+        "Fotoğraf seçimi"
+      ],
+      "takeaway": "İyi görsel, iyi anlaşılmış mimarinin sonucudur.",
+      "artworkSeed": 3,
+      "tags": [],
+      "personalNote": "",
+      "isCustom": false
+    },
+    {
+      "id": 4,
+      "name": "DETAIL",
+      "category": "Architecture",
+      "subtitle": "Construction · Detail",
+      "url": "https://www.detail.de",
+      "rating": 5,
+      "why": "Renderdaki gerçekçiliğin büyük kısmının shader'dan değil, doğru inşa edilmiş birleşimlerden geldiğini hatırlatır.",
+      "lookFor": [
+        "Cephe birleşimleri",
+        "Parapet",
+        "Pencere oturuşu",
+        "Malzeme katmanları"
+      ],
+      "takeaway": "CG kokusunu azaltmak için önce yapıyı doğru kur.",
+      "artworkSeed": 4,
+      "tags": [],
+      "personalNote": "",
+      "isCustom": false
+    },
+    {
+      "id": 5,
+      "name": "Domus",
+      "category": "Architecture",
+      "subtitle": "Architecture · Design · Art",
+      "url": "https://www.domusweb.it",
+      "rating": 4,
+      "why": "Mimarlık, ürün, sanat ve tasarım kültürünü tek görsel evrende okumaya yardımcı olur.",
+      "lookFor": [
+        "Tasarım kültürü",
+        "Obje-mekân ilişkisi",
+        "Editoryal sunum",
+        "Dönem dili"
+      ],
+      "takeaway": "Mekânı yalnız mimarlık değil, kültür de şekillendirir.",
+      "artworkSeed": 5,
+      "tags": [],
+      "personalNote": "",
+      "isCustom": false
+    },
+    {
+      "id": 6,
+      "name": "ArchEyes",
+      "category": "Architecture",
+      "subtitle": "History · Contemporary",
+      "url": "https://archeyes.com",
+      "rating": 4,
+      "why": "Tarihsel ve çağdaş projeleri aynı arşivde karşılaştırarak farklı dönemlerin benzer mekânsal problemleri nasıl çözdüğünü görmeni sağlar.",
+      "lookFor": [
+        "Tarihsel karşılaştırma",
+        "Tipoloji",
+        "Kompozisyon",
+        "Dönem farkı"
+      ],
+      "takeaway": "Yeni görünen fikirlerin çoğunun eski akrabaları vardır.",
+      "artworkSeed": 6,
+      "tags": [],
+      "personalNote": "",
+      "isCustom": false
+    },
+    {
+      "id": 7,
+      "name": "ArchDaily",
+      "category": "Architecture",
+      "subtitle": "Global Project Archive",
+      "url": "https://www.archdaily.com",
+      "rating": 4,
+      "why": "Muazzam hacimli bir proje arşivi. Ama ana sayfa yerine hedefli arama yapıldığında gerçek bir araştırma kütüphanesine dönüşür.",
+      "lookFor": [
+        "Tipoloji",
+        "Malzeme",
+        "Plan",
+        "Yerel bağlam"
+      ],
+      "takeaway": "Scroll etme. Soruyla gir, cevapla çık.",
+      "artworkSeed": 7,
+      "tags": [],
+      "personalNote": "",
+      "isCustom": false
+    },
+    {
+      "id": 8,
+      "name": "Dezeen",
+      "category": "Architecture",
+      "subtitle": "Trends · Design",
+      "url": "https://www.dezeen.com",
+      "rating": 3,
+      "why": "Güncel tasarım dilini, trendleri ve sektörün hangi estetiklere yöneldiğini hızlıca görmeye yarar.",
+      "lookFor": [
+        "Trendler",
+        "Yeni malzemeler",
+        "Grafik sunum",
+        "Editoryal dil"
+      ],
+      "takeaway": "Trendleri takip et, estetik doğruların yerine koyma.",
+      "artworkSeed": 8,
+      "tags": [],
+      "personalNote": "",
+      "isCustom": false
+    },
+    {
+      "id": 9,
+      "name": "Designboom",
+      "category": "Architecture",
+      "subtitle": "Experimental · Culture",
+      "url": "https://www.designboom.com",
+      "rating": 3,
+      "why": "Mimarlığın deneysel, teknolojik ve sanatla kesişen tarafını besler.",
+      "lookFor": [
+        "Konsept",
+        "Enstalasyon",
+        "Malzeme deneyi",
+        "Yeni üretim"
+      ],
+      "takeaway": "Referans havuzuna biraz sürtünme ekle.",
+      "artworkSeed": 9,
+      "tags": [],
+      "personalNote": "",
+      "isCustom": false
+    },
+    {
+      "id": 10,
+      "name": "ShotDeck",
+      "category": "Cinema",
+      "subtitle": "Frames · Light · Color",
+      "url": "https://shotdeck.com",
+      "rating": 5,
+      "why": "Film karelerini ışık, lens, renk, kompozisyon ve duygu üzerinden aramaya yarayan olağanüstü bir görsel laboratuvar.",
+      "lookFor": [
+        "Framing",
+        "Lighting",
+        "Lens",
+        "Color",
+        "Mood"
+      ],
+      "takeaway": "Render referansını render sitelerinde aramak zorunda değilsin.",
+      "artworkSeed": 10,
+      "tags": [],
+      "personalNote": "",
+      "isCustom": false
+    },
+    {
+      "id": 11,
+      "name": "FilmGrab",
+      "category": "Cinema",
+      "subtitle": "Film Stills · Visual Language",
+      "url": "https://film-grab.com",
+      "rating": 5,
+      "why": "Tek bir etkileyici kareden ziyade bir filmin onlarca karesinde görsel dilin nasıl tutarlı kaldığını gösterir.",
+      "lookFor": [
+        "Renk sürekliliği",
+        "Kadraj ailesi",
+        "Tekrarlanan motif",
+        "Işık dili"
+      ],
+      "takeaway": "Stil bir kare değil, tekrar eden kararlar sistemidir.",
+      "artworkSeed": 11,
+      "tags": [],
+      "personalNote": "",
+      "isCustom": false
+    },
+    {
+      "id": 12,
+      "name": "Roger Deakins Forum",
+      "category": "Cinema",
+      "subtitle": "Lighting · Camera",
+      "url": "https://www.rogerdeakins.com/forums/",
+      "rating": 5,
+      "why": "Işık, kamera, kompozisyon ve post prodüksiyon kararlarının arkasındaki mantığı doğrudan tartışmalar üzerinden öğrenmek için benzersiz.",
+      "lookFor": [
+        "Motivated light",
+        "Lens choice",
+        "Exposure",
+        "Practical lights"
+      ],
+      "takeaway": "Ayarı değil, kararın nedenini öğren.",
+      "artworkSeed": 12,
+      "tags": [],
+      "personalNote": "",
+      "isCustom": false
+    },
+    {
+      "id": 13,
+      "name": "American Cinematographer",
+      "category": "Cinema",
+      "subtitle": "ASC · Craft",
+      "url": "https://theasc.com",
+      "rating": 5,
+      "why": "Görüntü yönetmenlerinin lens, exposure, filtration, production design ve ışık kararlarını nasıl birlikte düşündüğünü gösterir.",
+      "lookFor": [
+        "Lens paketi",
+        "Filtration",
+        "Lighting plan",
+        "Production design"
+      ],
+      "takeaway": "Kamera, ışık ve sanat yönetimi tek sistemdir.",
+      "artworkSeed": 13,
+      "tags": [],
+      "personalNote": "",
+      "isCustom": false
+    },
+    {
+      "id": 14,
+      "name": "ARRI Academy",
+      "category": "Cinema",
+      "subtitle": "Light · Color · Camera",
+      "url": "https://www.arri.com/en/learn-help/arri-academy",
+      "rating": 4,
+      "why": "Işık ve görüntünün teknik temelini, fotometri ve renk teorisi dahil, daha mühendislik düzeyinde anlamaya yardım eder.",
+      "lookFor": [
+        "Fotometri",
+        "Renk teorisi",
+        "Light control",
+        "Camera response"
+      ],
+      "takeaway": "HDRI ezberlemek yerine ışığın fiziğini öğren.",
+      "artworkSeed": 14,
+      "tags": [],
+      "personalNote": "",
+      "isCustom": false
+    },
+    {
+      "id": 15,
+      "name": "MIR",
+      "category": "Archviz",
+      "subtitle": "Atmosphere · Landscape · Narrative",
+      "url": "https://www.mir.no",
+      "rating": 5,
+      "why": "Mimariyi obje olarak değil, hava, arazi, insan ve peyzaj içinde yaşayan bir sahne olarak kurar.",
+      "lookFor": [
+        "Atmospheric perspective",
+        "Foreground",
+        "Weather",
+        "Human scale",
+        "Landscape"
+      ],
+      "takeaway": "Önce dünyanın nasıl hissettireceğini belirle, sonra binayı içine yerleştir.",
+      "artworkSeed": 15,
+      "tags": [],
+      "personalNote": "",
+      "isCustom": false
+    },
+    {
+      "id": 16,
+      "name": "Brick Visual",
+      "category": "Archviz",
+      "subtitle": "Realism · Art Direction",
+      "url": "https://www.brickvisual.com",
+      "rating": 5,
+      "why": "Teknik gerçekçilik ile güçlü sanat yönetimini aynı görüntüde birleştiren dünya standartlarında bir referans.",
+      "lookFor": [
+        "Material response",
+        "Atmospheric depth",
+        "Vegetation",
+        "Entourage",
+        "Surface imperfection"
+      ],
+      "takeaway": "Gerçekçilik detay sayısı değil, tutarlı fiziksel davranıştır.",
+      "artworkSeed": 16,
+      "tags": [],
+      "personalNote": "",
+      "isCustom": false
+    },
+    {
+      "id": 17,
+      "name": "Beauty and the Bit",
+      "category": "Archviz",
+      "subtitle": "Narrative · Cinematic",
+      "url": "https://beautyandthebit.com",
+      "rating": 5,
+      "why": "Mimari görselleştirmeyi sinematografik anlatıya yaklaştırır; hava, hareket ve insan görüntünün dramatik motorudur.",
+      "lookFor": [
+        "Narrative",
+        "Weather",
+        "Motion",
+        "Dramatic light",
+        "Framing"
+      ],
+      "takeaway": "Render değil, sahne kur.",
+      "artworkSeed": 17,
+      "tags": [],
+      "personalNote": "",
+      "isCustom": false
+    },
+    {
+      "id": 18,
+      "name": "The Boundary",
+      "category": "Archviz",
+      "subtitle": "Luxury · Commercial",
+      "url": "https://www.the-boundary.com",
+      "rating": 4,
+      "why": "Ultra-lüks residential ve ticari görselleştirmede kontrollü ışık, temiz malzeme ve satış odaklı kusursuzluk için güçlü referans.",
+      "lookFor": [
+        "Luxury styling",
+        "Clean materials",
+        "Interior light",
+        "Polish"
+      ],
+      "takeaway": "Ticari görüntüde arzu üretmek ayrı bir zanaattır.",
+      "artworkSeed": 18,
+      "tags": [],
+      "personalNote": "",
+      "isCustom": false
+    },
+    {
+      "id": 19,
+      "name": "Luxigon",
+      "category": "Archviz",
+      "subtitle": "Artistic · Conceptual",
+      "url": "https://www.luxigon.com",
+      "rating": 5,
+      "why": "Fotogerçekçiliğin tek doğru olmadığını; grafik kompozisyon, kolaj ve stilizasyonun da mimariyi güçlü anlatabileceğini gösterir.",
+      "lookFor": [
+        "Abstraction",
+        "Color blocks",
+        "Graphic composition",
+        "Collage logic"
+      ],
+      "takeaway": "Bazen daha az gerçekçi görüntü daha doğru anlatır.",
+      "artworkSeed": 19,
+      "tags": [],
+      "personalNote": "",
+      "isCustom": false
+    },
+    {
+      "id": 20,
+      "name": "ArtefactoryLab",
+      "category": "Archviz",
+      "subtitle": "Competition · Urban",
+      "url": "https://www.artefactorylab.com",
+      "rating": 4,
+      "why": "Büyük ölçekli yarışma, masterplan ve kamusal proje görselleştirmesinde okunabilirlik ve atmosfer dengesini iyi kurar.",
+      "lookFor": [
+        "Urban scale",
+        "Competition framing",
+        "Hierarchy",
+        "Context"
+      ],
+      "takeaway": "Büyük ölçeği anlaşılır kılmak için hiyerarşi şarttır.",
+      "artworkSeed": 20,
+      "tags": [],
+      "personalNote": "",
+      "isCustom": false
+    },
+    {
+      "id": 21,
+      "name": "Hayes Davidson",
+      "category": "Archviz",
+      "subtitle": "Legacy · Communication",
+      "url": "https://www.hayesdavidson.com",
+      "rating": 4,
+      "why": "Mimari görselleştirmenin profesyonel tarihini ve görüntünün bir projeyi ikna edici biçimde anlatma gücünü görmek için önemli.",
+      "lookFor": [
+        "Communication",
+        "Commercial clarity",
+        "Composition",
+        "Legacy craft"
+      ],
+      "takeaway": "Güzel görüntü yetmez; fikir de satmalı.",
+      "artworkSeed": 21,
+      "tags": [],
+      "personalNote": "",
+      "isCustom": false
+    },
+    {
+      "id": 22,
+      "name": "Magnum Photos",
+      "category": "Photography",
+      "subtitle": "Human · Documentary",
+      "url": "https://www.magnumphotos.com",
+      "rating": 4,
+      "why": "Gerçek insanların mekân içinde nasıl durduğunu, yürüdüğünü ve jest yaptığını gözlemlemek için archviz dışı güçlü bir panzehir.",
+      "lookFor": [
+        "Body language",
+        "Moment",
+        "Human scale",
+        "Imperfect composition"
+      ],
+      "takeaway": "Entourage'u dekor değil, insan olarak gör.",
+      "artworkSeed": 22,
+      "tags": [],
+      "personalNote": "",
+      "isCustom": false
+    },
+    {
+      "id": 23,
+      "name": "LensCulture",
+      "category": "Photography",
+      "subtitle": "Contemporary Photography",
+      "url": "https://www.lensculture.com",
+      "rating": 4,
+      "why": "Çağdaş fotoğraf dilini, negatif alanı, crop kararlarını ve sıradan sahnelerin nasıl güçlü görüntülere dönüştüğünü gösterir.",
+      "lookFor": [
+        "Negative space",
+        "Crop",
+        "Color relation",
+        "Everyday scenes"
+      ],
+      "takeaway": "Sıradanlık doğru kadrajla güçlü olabilir.",
+      "artworkSeed": 23,
+      "tags": [],
+      "personalNote": "",
+      "isCustom": false
+    },
+    {
+      "id": 24,
+      "name": "Are.na",
+      "category": "Reference",
+      "subtitle": "Reference Systems",
+      "url": "https://www.are.na",
+      "rating": 5,
+      "why": "Algoritmik benzerlik döngüsü yerine kendi referans zincirlerini ve tematik görsel arşivini kurmana izin verir.",
+      "lookFor": [
+        "Collections",
+        "Visual themes",
+        "Cross-disciplinary links",
+        "Personal taxonomy"
+      ],
+      "takeaway": "Referans tüketme, referans sistemi kur.",
+      "artworkSeed": 24,
+      "tags": [],
+      "personalNote": "",
+      "isCustom": false
+    },
+    {
+      "id": 25,
+      "name": "DBOX",
+      "category": "Archviz",
+      "subtitle": "Luxury · Branding · Desire",
+      "url": "https://dbox.com",
+      "rating": 5,
+      "why": "CGI'yi branding, film ve kampanya diliyle birlikte ele alarak gayrimenkul projesinin bütün arzu dünyasını kurar.",
+      "lookFor": [
+        "Art direction",
+        "Luxury branding",
+        "Desire",
+        "Campaign consistency"
+      ],
+      "takeaway": "Görsel bir ürün değil, marka evreninin parçasıdır.",
+      "artworkSeed": 25,
+      "tags": [],
+      "personalNote": "",
+      "isCustom": false
+    },
+    {
+      "id": 26,
+      "name": "Bloomimages",
+      "category": "Archviz",
+      "subtitle": "Photography · Atmosphere",
+      "url": "https://www.bloomimages.de",
+      "rating": 5,
+      "why": "Fotoğrafik rafinelik, sessizlik, malzeme sadeliği ve doğal ışık konusunda son derece kontrollü bir görsel dil sunar.",
+      "lookFor": [
+        "Natural light",
+        "Quiet framing",
+        "Material subtlety",
+        "Tone"
+      ],
+      "takeaway": "Gösterişli olmadan güçlü olmayı öğren.",
+      "artworkSeed": 26,
+      "tags": [],
+      "personalNote": "",
+      "isCustom": false
+    },
+    {
+      "id": 27,
+      "name": "Binyan Studios",
+      "category": "Archviz",
+      "subtitle": "Development · Luxury",
+      "url": "https://www.binyanstudios.com",
+      "rating": 5,
+      "why": "Büyük ölçekli development ve luxury real-estate görselleştirmesinde yüksek bütçeli ticari anlatının iyi örneklerini sunar.",
+      "lookFor": [
+        "Skyline",
+        "Lifestyle",
+        "Luxury polish",
+        "Development storytelling"
+      ],
+      "takeaway": "Ticari görüntünün hedefi yalnız gerçekçilik değil, gelecek hayatı satmaktır.",
+      "artworkSeed": 27,
+      "tags": [],
+      "personalNote": "",
+      "isCustom": false
+    },
+    {
+      "id": 28,
+      "name": "Recent Spaces",
+      "category": "Archviz",
+      "subtitle": "Interior · Materiality",
+      "url": "https://www.recentspaces.com",
+      "rating": 5,
+      "why": "Interior visualization tarafında kumaş, taş, ahşap, metal ve cam davranışlarını incelikli ışıkla birleştirir.",
+      "lookFor": [
+        "Fabric",
+        "Stone",
+        "Wood",
+        "Glass",
+        "Interior lighting"
+      ],
+      "takeaway": "İyi iç mekânda materyal, ışığın davranışıyla okunur.",
+      "artworkSeed": 28,
+      "tags": [],
+      "personalNote": "",
+      "isCustom": false
+    },
+    {
+      "id": 29,
+      "name": "Squint/Opera",
+      "category": "Archviz",
+      "subtitle": "Storytelling · Experience",
+      "url": "https://www.squintopera.com",
+      "rating": 5,
+      "why": "CGI, film ve immersive deneyimleri bir araya getirerek mimariyi yalnız göstermek yerine onun hakkında hikâye kurar.",
+      "lookFor": [
+        "Story structure",
+        "Motion",
+        "Experience design",
+        "Narrative systems"
+      ],
+      "takeaway": "Tek kareden daha büyük bir iletişim sistemi düşün.",
+      "artworkSeed": 29,
+      "tags": [],
+      "personalNote": "",
+      "isCustom": false
+    },
+    {
+      "id": 30,
+      "name": "TMRW",
+      "category": "Archviz",
+      "subtitle": "Believability · World-building",
+      "url": "https://tmrw.inc",
+      "rating": 5,
+      "why": "Gerçekçiliği yalnız teknik detayda değil, sahnenin küçük bağlamsal kararlarında arar.",
+      "lookFor": [
+        "Micro-story",
+        "Entourage",
+        "Context",
+        "Believable detail"
+      ],
+      "takeaway": "İnandırıcılık küçük doğru kararların toplamıdır.",
+      "artworkSeed": 30,
+      "tags": [],
+      "personalNote": "",
+      "isCustom": false
+    },
+    {
+      "id": 31,
+      "name": "MOKA Studio",
+      "category": "Archviz",
+      "subtitle": "Urban · Public Life",
+      "url": "https://www.moka-studio.com",
+      "rating": 5,
+      "why": "Kamusal alan, kent hayatı ve insan yoğunluğunu mimariyle birlikte okunabilir kılmakta güçlüdür.",
+      "lookFor": [
+        "Public life",
+        "Urban scale",
+        "Crowd rhythm",
+        "Spatial use"
+      ],
+      "takeaway": "Binayı değil, mekânın kullanımını renderla.",
+      "artworkSeed": 31,
+      "tags": [],
+      "personalNote": "",
+      "isCustom": false
+    },
+    {
+      "id": 32,
+      "name": "The Craft",
+      "category": "Archviz",
+      "subtitle": "Hospitality · Styling",
+      "url": "https://the-craft.co",
+      "rating": 5,
+      "why": "Hospitality ve iç mekânda styling, prop seçimi ve production design mantığını güçlü biçimde kullanır.",
+      "lookFor": [
+        "Styling",
+        "Props",
+        "Hospitality",
+        "Production design"
+      ],
+      "takeaway": "Masadaki kitap bile sahnenin senaryosuna hizmet etmeli.",
+      "artworkSeed": 32,
+      "tags": [],
+      "personalNote": "",
+      "isCustom": false
+    },
+    {
+      "id": 33,
+      "name": "Aiko Studio",
+      "category": "Archviz",
+      "subtitle": "CGI · Lookdev · Motion",
+      "url": "https://www.studio-aiko.com",
+      "rating": 4,
+      "why": "Archviz, advertising ve VFX arasında dolaşan teknik bir CG yaklaşımıyla materyal ve lookdev kalitesini besler.",
+      "lookFor": [
+        "Lookdev",
+        "CG detail",
+        "Animation",
+        "Material fidelity"
+      ],
+      "takeaway": "Archviz dışındaki CG disiplinlerinden teknik kalite ödünç al.",
+      "artworkSeed": 33,
+      "tags": [],
+      "personalNote": "",
+      "isCustom": false
+    },
+    {
+      "id": 34,
+      "name": "Vyonyx",
+      "category": "Archviz",
+      "subtitle": "Landscape · Masterplan",
+      "url": "https://vyonyx.com",
+      "rating": 5,
+      "why": "Büyük çevreler, peyzaj, masterplan ve aerial kompozisyonlarda mimari ile araziyi tek sahnede güçlü biçimde dengeler.",
+      "lookFor": [
+        "Landscape composition",
+        "Aerial",
+        "Masterplan",
+        "Atmospheric distance"
+      ],
+      "takeaway": "Uzak plan da tasarlanmış bir katmandır.",
+      "artworkSeed": 34,
+      "tags": [],
+      "personalNote": "",
+      "isCustom": false
+    },
+    {
+      "id": 35,
+      "name": "Assembly Studios",
+      "category": "Archviz",
+      "subtitle": "CGI · Film · Digital",
+      "url": "https://assemblystudios.com",
+      "rating": 5,
+      "why": "Still, film ve dijital deneyimi birlikte düşünerek mimari iletişimi tek görselden daha geniş bir sisteme taşır.",
+      "lookFor": [
+        "Multi-format",
+        "Interactive",
+        "Film",
+        "Campaign system"
+      ],
+      "takeaway": "Stüdyo çıktısını tek görsel formatına hapsetme.",
+      "artworkSeed": 35,
+      "tags": [],
+      "personalNote": "",
+      "isCustom": false
+    },
+    {
+      "id": 36,
+      "name": "Methanoia",
+      "category": "Archviz",
+      "subtitle": "Complex Form · Film",
+      "url": "https://methanoia.com",
+      "rating": 5,
+      "why": "Karmaşık mimari geometrileri ışık ve materyal ayrımıyla okunabilir hâle getirmekte çok güçlüdür.",
+      "lookFor": [
+        "Complex geometry",
+        "Material separation",
+        "Light hierarchy",
+        "Motion"
+      ],
+      "takeaway": "Karmaşıklığı detayla değil hiyerarşiyle çöz.",
+      "artworkSeed": 36,
+      "tags": [],
+      "personalNote": "",
+      "isCustom": false
+    },
+    {
+      "id": 37,
+      "name": "Darcstudio",
+      "category": "Archviz",
+      "subtitle": "Emotion · Storytelling",
+      "url": "https://darcstudio.com",
+      "rating": 5,
+      "why": "Mekânın nasıl göründüğünden çok nasıl hissettirdiğini anlatan, duygu odaklı architectural storytelling yaklaşımı.",
+      "lookFor": [
+        "Emotion",
+        "Live-action language",
+        "Styling",
+        "Light mood"
+      ],
+      "takeaway": "Mekânın hissini görüntünün ana brief'i yap.",
+      "artworkSeed": 37,
+      "tags": [],
+      "personalNote": "",
+      "isCustom": false
+    },
+    {
+      "id": 38,
+      "name": "Kilograph",
+      "category": "Archviz",
+      "subtitle": "Brand · Film · Interactive",
+      "url": "https://kilograph.com",
+      "rating": 5,
+      "why": "Visualization, branding, film ve interaktif deneyimleri aynı kimlik içinde sürdürebilen güçlü bir creative studio modeli.",
+      "lookFor": [
+        "Brand consistency",
+        "Film",
+        "Web",
+        "Visual identity"
+      ],
+      "takeaway": "Render stilini marka dilinden ayrı düşünme.",
+      "artworkSeed": 38,
+      "tags": [],
+      "personalNote": "",
+      "isCustom": false
+    },
+    {
+      "id": 39,
+      "name": "Flood",
+      "category": "Archviz",
+      "subtitle": "Film · Pre-built Visualization",
+      "url": "https://floodstudio.com",
+      "rating": 4,
+      "why": "Fotoğrafik estetikten gelen still ve film üretimini, pre-built visualization ve deneyim tasarımıyla birleştirir.",
+      "lookFor": [
+        "Camera movement",
+        "Film",
+        "Pre-built visualization",
+        "Color"
+      ],
+      "takeaway": "Mekânı hareket içinde okumayı da öğren.",
+      "artworkSeed": 39,
+      "tags": [],
+      "personalNote": "",
+      "isCustom": false
+    }
+  ],
+  "focus": [
+    {
+      "id": "f4b58a4af310b76117dec09490a32da9",
+      "title": "Depth Through Compression",
+      "prompt": "Imagine removing the foreground from three images. Does the composition still hold?",
+      "principle": "Telephoto compression can flatten depth while strengthening graphic hierarchy."
+    },
+    {
+      "id": "a880d30227d4a054a91295d40c08d9a1",
+      "title": "Negative Space",
+      "prompt": "Find what the image refuses to fill. Is that emptiness carrying tension or clarity?",
+      "principle": "Empty space is an active compositional mass."
+    },
+    {
+      "id": "30bb06eca213b2c7fa8c01e879b5de35",
+      "title": "Human Scale",
+      "prompt": "Ignore the architecture first. Read only posture, direction and distance between people.",
+      "principle": "People should establish scale and intention, not decorate a render."
+    },
+    {
+      "id": "a78913a80938feb1dcbf242e40b2aa97",
+      "title": "Motivated Light",
+      "prompt": "For every bright surface, ask where the light physically comes from.",
+      "principle": "Believable light has a reason before it has a mood."
+    },
+    {
+      "id": "c951f37624a04cec790b41841dc73b85",
+      "title": "Material Imperfection",
+      "prompt": "Look for variation that is visible but not shouting for attention.",
+      "principle": "Realism lives in restrained variation, not random dirt."
+    },
+    {
+      "id": "bf81c854c98cd1a3bc3d52ee8bb6beba",
+      "title": "Foreground",
+      "prompt": "Trace how the nearest object directs, blocks or frames the eye.",
+      "principle": "Foreground is a compositional device, not mandatory decoration."
+    },
+    {
+      "id": "6437480ab44fbfec3289981815810164",
+      "title": "Atmospheric Distance",
+      "prompt": "Compare the contrast of near, middle and far planes.",
+      "principle": "Depth can be built by atmosphere before geometry."
+    },
+    {
+      "id": "18f88d8eecad986bb7add1e19a5e18ec",
+      "title": "Warm / Cold Separation",
+      "prompt": "Locate the warmest and coldest zones and ask what each is doing narratively.",
+      "principle": "Color temperature can separate emotional and spatial layers."
+    },
+    {
+      "id": "0d1b28effd9d38f56f8e03793c0c9877",
+      "title": "Visual Hierarchy",
+      "prompt": "Name the first, second and third thing your eye reads. Then explain why.",
+      "principle": "A strong image controls order without announcing the mechanism."
+    },
+    {
+      "id": "3af31728b842caf63fa2a5f78ee2d3b7",
+      "title": "Stillness",
+      "prompt": "Find an image that feels quiet. Identify the exact decisions creating that silence.",
+      "principle": "Stillness is designed through restraint, spacing and timing."
+    }
+  ],
+  "vocabulary": [
+    {
+      "id": "52f5d92fd532cb280d951091a903bb4d",
+      "note": "",
+      "title": "Telephoto Compression",
+      "definition": "The apparent flattening of spatial layers when a scene is framed from farther away with a longer focal length.",
+      "related": [
+        "Layering",
+        "Hierarchy"
+      ]
+    },
+    {
+      "id": "0be7ad65150bb9cd46f1b0c95db5b134",
+      "note": "",
+      "title": "Atmospheric Perspective",
+      "definition": "Depth created by progressively lower contrast, saturation and detail toward distant planes.",
+      "related": [
+        "Depth",
+        "Weather"
+      ]
+    },
+    {
+      "id": "49b5f56341f1b0d2764bddd7f835b7ee",
+      "note": "",
+      "title": "Negative Space",
+      "definition": "Unoccupied visual area deliberately used to create hierarchy, tension, rhythm or calm.",
+      "related": [
+        "Hierarchy",
+        "Stillness"
+      ]
+    },
+    {
+      "id": "b47c13769aeaabd76cd1e480c0d7b717",
+      "note": "",
+      "title": "Motivated Light",
+      "definition": "Light whose direction and quality can be traced to a believable source inside or outside the frame.",
+      "related": [
+        "Exposure",
+        "Practical Light"
+      ]
+    },
+    {
+      "id": "ce502d433a850dcfe9c4ae53cf3a5294",
+      "note": "",
+      "title": "Visual Hierarchy",
+      "definition": "The controlled sequence in which the eye reads elements inside a frame.",
+      "related": [
+        "Contrast",
+        "Composition"
+      ]
+    },
+    {
+      "id": "2f288940edc0bddd273c70a9471f12bc",
+      "note": "",
+      "title": "Lived-in Realism",
+      "definition": "Believability created by contextual traces of use rather than by adding generic dirt or clutter.",
+      "related": [
+        "Entourage",
+        "Material Imperfection"
+      ]
+    }
+  ],
+  "templates": [
+    {
+      "id": "30bbfb9047b9530c6cc963b23d8fccfb",
+      "name": "Quick Study",
+      "mode": "Quick Study",
+      "fields": [
+        {
+          "id": "263336666cb5e5da77eb25ed23a01f22",
+          "title": "First impression",
+          "prompt": "Choose the first words that arrive before analysis.",
+          "type": "Multiple Choice",
+          "options": [
+            "Calm",
+            "Cold",
+            "Warm",
+            "Quiet",
+            "Dramatic",
+            "Monumental",
+            "Intimate",
+            "Graphic"
+          ],
+          "isRequired": false
+        },
+        {
+          "id": "876f5abce86f6e5e8a48a16f25d1edd0",
+          "title": "What controls your eye?",
+          "prompt": "",
+          "type": "Long Text",
+          "options": [],
+          "isRequired": false
+        },
+        {
+          "id": "54e74ad9c5189e6d181a5dcf09637782",
+          "title": "What creates the atmosphere?",
+          "prompt": "",
+          "type": "Long Text",
+          "options": [],
+          "isRequired": false
+        },
+        {
+          "id": "51ef9be5091b6d8da2c125d903c982ff",
+          "title": "One thing worth stealing",
+          "prompt": "",
+          "type": "Long Text",
+          "options": [],
+          "isRequired": false
+        },
+        {
+          "id": "e8d2498790dc8e65d715e63cb406539f",
+          "title": "Principle extracted",
+          "prompt": "Reduce the image to one transferable rule.",
+          "type": "Long Text",
+          "options": [],
+          "isRequired": false
+        },
+        {
+          "id": "ad91a7ec82432f3cb2121a1a8082d1f5",
+          "title": "Tags",
+          "prompt": "Comma separated terms are fine.",
+          "type": "Tags",
+          "options": [],
+          "isRequired": false
+        }
+      ],
+      "isSystem": true
+    },
+    {
+      "id": "6cc1685df8e67eabc363f56eb2d71282",
+      "name": "Deep Study",
+      "mode": "Deep Study",
+      "fields": [
+        {
+          "id": "ced46fe074abba4832576853784e5770",
+          "title": "First impression",
+          "prompt": "",
+          "type": "Multiple Choice",
+          "options": [
+            "Calm",
+            "Cold",
+            "Warm",
+            "Quiet",
+            "Dramatic",
+            "Monumental",
+            "Intimate",
+            "Graphic"
+          ],
+          "isRequired": false
+        },
+        {
+          "id": "d27e16dc418cac8ea941e321afa6e89f",
+          "title": "Composition / hierarchy",
+          "prompt": "",
+          "type": "Long Text",
+          "options": [],
+          "isRequired": false
+        },
+        {
+          "id": "377984ef2079ece6230883a2f04f3d45",
+          "title": "Depth",
+          "prompt": "",
+          "type": "Long Text",
+          "options": [],
+          "isRequired": false
+        },
+        {
+          "id": "c5e38b2eac11c36aafecde4e5da4946e",
+          "title": "Lens",
+          "prompt": "",
+          "type": "Long Text",
+          "options": [],
+          "isRequired": false
+        },
+        {
+          "id": "39ecb5a144586dd9de8db640ebed5d41",
+          "title": "Light",
+          "prompt": "",
+          "type": "Long Text",
+          "options": [],
+          "isRequired": false
+        },
+        {
+          "id": "c6f2d40f910758d73cfc22e01135a313",
+          "title": "Color",
+          "prompt": "",
+          "type": "Long Text",
+          "options": [],
+          "isRequired": false
+        },
+        {
+          "id": "5bd2dcbdceb5795b73c59eb2eb37af9d",
+          "title": "Material",
+          "prompt": "",
+          "type": "Long Text",
+          "options": [],
+          "isRequired": false
+        },
+        {
+          "id": "32f404156d5184b185b58a3f39be0813",
+          "title": "Human presence",
+          "prompt": "",
+          "type": "Long Text",
+          "options": [],
+          "isRequired": false
+        },
+        {
+          "id": "afb56df8ef19e6142c00a349c33dea57",
+          "title": "Narrative",
+          "prompt": "",
+          "type": "Long Text",
+          "options": [],
+          "isRequired": false
+        },
+        {
+          "id": "b7f9b3bfb26f57b0b203dc9759ce7dbe",
+          "title": "What would I steal?",
+          "prompt": "",
+          "type": "Long Text",
+          "options": [],
+          "isRequired": false
+        },
+        {
+          "id": "14cf6d50cc7af6571df8bf6f0451ad8e",
+          "title": "Principle extracted",
+          "prompt": "",
+          "type": "Long Text",
+          "options": [],
+          "isRequired": false
+        },
+        {
+          "id": "eadcf0315bac61618d28bbd0afb348bf",
+          "title": "Tags",
+          "prompt": "",
+          "type": "Tags",
+          "options": [],
+          "isRequired": false
+        }
+      ],
+      "isSystem": true
+    },
+    {
+      "id": "be8f88809c3817571541171b798c1524",
+      "name": "Blind Study",
+      "mode": "Blind Study",
+      "fields": [
+        {
+          "id": "08647516405eefec787230b7519e6a30",
+          "title": "First impression now",
+          "prompt": "",
+          "type": "Long Text",
+          "options": [],
+          "isRequired": false
+        },
+        {
+          "id": "80047102e9dc28ebfaebdc217deec6c7",
+          "title": "What mechanism makes it work?",
+          "prompt": "",
+          "type": "Long Text",
+          "options": [],
+          "isRequired": false
+        },
+        {
+          "id": "7ea33fd4432bf0444451d551e424f9bf",
+          "title": "Principle extracted",
+          "prompt": "",
+          "type": "Long Text",
+          "options": [],
+          "isRequired": false
+        }
+      ],
+      "isSystem": true
+    },
+    {
+      "id": "7eece51cf3938103677db7a5051ef8f5",
+      "name": "Compare",
+      "mode": "Compare",
+      "fields": [
+        {
+          "id": "dcea368711077d9432bccfe4a7420830",
+          "title": "Hierarchy",
+          "prompt": "",
+          "type": "Long Text",
+          "options": [],
+          "isRequired": false
+        },
+        {
+          "id": "ad974880b7c76c172582b588a8e5590a",
+          "title": "Atmosphere",
+          "prompt": "",
+          "type": "Long Text",
+          "options": [],
+          "isRequired": false
+        },
+        {
+          "id": "76c2652fccf29331237745d9f5879b66",
+          "title": "Material response",
+          "prompt": "",
+          "type": "Long Text",
+          "options": [],
+          "isRequired": false
+        },
+        {
+          "id": "feeb59de9b23122fb17cd6b951e261c5",
+          "title": "Human integration",
+          "prompt": "",
+          "type": "Long Text",
+          "options": [],
+          "isRequired": false
+        },
+        {
+          "id": "0b6c9a85a4f0be1c4460e88ec87e841f",
+          "title": "Which works better, and why?",
+          "prompt": "",
+          "type": "Long Text",
+          "options": [],
+          "isRequired": false
+        },
+        {
+          "id": "cbe20f659a3735d48e4a98b57724eebe",
+          "title": "Principle extracted",
+          "prompt": "",
+          "type": "Long Text",
+          "options": [],
+          "isRequired": false
+        }
+      ],
+      "isSystem": true
+    }
+  ],
+  "questions": [
+    "What did your eye read first?",
+    "How is depth constructed?",
+    "What is the lens doing to space?",
+    "Where does the light seem to come from?",
+    "What would disappear if the people vanished?",
+    "Which detail makes the scene believable?",
+    "What single idea can you carry into your own work?"
+  ],
+  "checklist": [
+    "Camera height is intentional",
+    "Primary visual hierarchy is clear",
+    "Lighting has a believable motivation",
+    "Materials contain enough variation",
+    "Human presence is contextual",
+    "Foreground is a deliberate choice",
+    "The frame implies a narrative"
+  ],
+  "categories": [
+    "Architecture",
+    "Cinema",
+    "Archviz",
+    "Photography",
+    "Reference"
+  ],
+  "fieldTypes": [
+    "Short Text",
+    "Long Text",
+    "Tags",
+    "Single Choice",
+    "Multiple Choice",
+    "Rating 1–5",
+    "Yes / No"
+  ]
+}
